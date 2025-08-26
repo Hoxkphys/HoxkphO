@@ -1,0 +1,8 @@
+// script.js - Basic JS for Flow Study Tracker
+
+console.log("Flow Study Tracker loaded!");
+
+// Example: alert when page loads
+window.addEventListener('load', () => {
+    console.log("Welcome to Flow Study Tracker 🚀");
+});

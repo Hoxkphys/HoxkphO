@@ -1,0 +1,17 @@
+/* style.css - Basic styling for Flow Study Tracker */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 2rem;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: #2E8B57;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #333;
+}
